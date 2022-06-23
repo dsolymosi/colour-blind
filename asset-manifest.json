@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/colour-blind/static/css/main.410f8545.css",
+    "main.js": "/colour-blind/static/js/main.d9612c69.js",
+    "index.html": "/colour-blind/index.html",
+    "main.410f8545.css.map": "/colour-blind/static/css/main.410f8545.css.map",
+    "main.d9612c69.js.map": "/colour-blind/static/js/main.d9612c69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.410f8545.css",
+    "static/js/main.d9612c69.js"
+  ]
+}
